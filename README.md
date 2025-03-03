@@ -6,7 +6,7 @@ A beautiful **Analog Clock** ⏰ built using **HTML, CSS, and JavaScript**.
 
 🔗 **[Click here to view the live project!](https://passenger108.github.io/Clock/)**  
 
-![Analog Clock Preview](clock.png)  
+
 
 ## ✨ Features  
 ✅ Real-time clock updates every second ⏳  
@@ -23,4 +23,4 @@ A beautiful **Analog Clock** ⏰ built using **HTML, CSS, and JavaScript**.
 1. Open the **[Live Demo](https://passenger108.github.io/Clock/)** 🌍  
 2. Watch the **real-time** analog clock ticking! ⏳🕰️  
 
-## 📂 Project Structure  
+ 
