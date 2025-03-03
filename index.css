@@ -1,0 +1,47 @@
+#clockContainer{
+    width: 40vw;
+    height: 40vw;
+    background: url(clock.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto;
+    margin-top: 5vw;
+    position: relative;
+}
+
+#hourHand,#minuteHand,#secondHand {
+    position: absolute;
+    border: 2px solid black;
+
+    transform-origin: bottom center;
+}
+
+#hourHand {
+    left: 48.2%;
+    height: 20.7% ;
+    top: 28.2%;
+    width: 2%;
+    background-color: black;
+    border-top-right-radius: 45%;
+    border-top-left-radius: 45%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
+
+#minuteHand {
+    border-top-right-radius: 20%;
+    border-top-left-radius: 20%;
+    height: 30.8%;
+    top: 18.2%;
+    width: 0.5%;
+    left: 49%;
+    background-color: black;
+}
+
+#secondHand {
+    border-top-right-radius: 34%;
+    border-top-left-radius: 34%;
+    height: 35.5%;
+    top: 13.2%;
+    left: 49.22%;
+}
